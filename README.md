@@ -10,4 +10,4 @@ Proxy Bridge is a simple Golang program that acts as a proxy server, forwarding 
 By default, the program listens for incoming connections on port 8880 and forwards them to a server running on `127.0.0.1:22`. You can change these values by modifying the `host`, `port`, and `listen` variables in the code.
 
 ## License
-This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This program is licensed under the GNU Public License V3. See the [LICENSE](LICENSE) file for more information.
